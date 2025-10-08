@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A passionate frontend WordPress, Shopify & HubSpot developer from Philippines.</h3>
+<h2>9+ years in WordPress, Shopify & HubSpot Frontend Development</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisbasalo08&label=Profile%20views&color=0e75b6&style=flat" alt="chrisbasalo08" /> </p>
 
